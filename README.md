@@ -2,8 +2,8 @@
 In this datasets there are two tables, It is the sales inforamation of a Awesome chocolate comapany.
 * Product Table
 * Sales Table
-In Product table, column Product is working like a primary key. whereas in sales table, product column is working like a foreign key.
-* Question: 
+-> In Product table, column Product is working like a primary key. whereas in sales table, product column is working like a foreign key.
+## Question: 
 * Find the quick statistics for amounts and units
 * Do the exploratory Data Analysis with conditional formatting
 * Calculate the sales by country using formulas
